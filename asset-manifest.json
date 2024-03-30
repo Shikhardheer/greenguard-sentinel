@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/greenguard-sentinel/static/css/main.c425b8ee.css",
+    "main.js": "/greenguard-sentinel/static/js/main.842da5e0.js",
+    "static/js/453.64512fd7.chunk.js": "/greenguard-sentinel/static/js/453.64512fd7.chunk.js",
+    "index.html": "/greenguard-sentinel/index.html",
+    "main.c425b8ee.css.map": "/greenguard-sentinel/static/css/main.c425b8ee.css.map",
+    "main.842da5e0.js.map": "/greenguard-sentinel/static/js/main.842da5e0.js.map",
+    "453.64512fd7.chunk.js.map": "/greenguard-sentinel/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c425b8ee.css",
+    "static/js/main.842da5e0.js"
+  ]
+}
